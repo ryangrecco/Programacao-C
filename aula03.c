@@ -8,5 +8,5 @@ int main(){
     char nome[20] = "Ryan";
 
     printf("Meu nome %s e idade %d\n", nome, idade);
-    printf("A altura é %f\n", altura);
+    printf("A altura é %2f\n", altura);
 }
