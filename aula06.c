@@ -1,5 +1,9 @@
 #include <stdio.h>
 
 int main(){
-    int numerosinal = 
+    int a = 1;
+
+    if(!(a == 0)){
+        printf("a é diferente de 0");
+    }
 }
